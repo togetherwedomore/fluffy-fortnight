@@ -1,4 +1,4 @@
-# Security Policy
+K# Security Policy
 
 ## Supported Versions
 
@@ -19,3 +19,7 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+Thank you ;
+The edification was well appreciative to proceed with a 
+Comprehensive version of showing vulnerability to show accepted or
+Declined
